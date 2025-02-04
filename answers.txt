@@ -24,8 +24,14 @@
         -> Short meeting that happens every day of the sprint
         -> Usually, 10 mins long
         -> Team members discuss work completed, work plan for the day and any blockers
-        
+
     3. Sprint Retrospective Meeting:
         -> Occurs at the end of the sprint
         -> Discuss work complete and move incomplete work to backlog
-        -> Close sprin
+        -> Close Sprint
+
+
+(d) An issue is a unit of work that can be tracked through a workflow. 
+    It can range from a bug (smallest unit of work) to an epic (largest)
+    A story is a software system requirement that is expressed in a few short sentences.
+    An epic captures a large body of work that can be broken down into several smaller stories
