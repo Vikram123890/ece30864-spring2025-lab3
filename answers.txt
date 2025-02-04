@@ -13,3 +13,19 @@
     Product Owner: Sets direction for the team, handles release
     management and stakeholder management. 
 
+
+(c) 1. Sprint Planning Meeting:
+        -> Determine what to complete in the coming sprint
+        -> Move stories in sprint scope from backlog to current sprint
+        -> Determine story points and assign stories to team
+        -> Start sprint
+
+    2. Daily Scrum/Standup Meeting:
+        -> Short meeting that happens every day of the sprint
+        -> Usually, 10 mins long
+        -> Team members discuss work completed, work plan for the day and any blockers
+        
+    3. Sprint Retrospective Meeting:
+        -> Occurs at the end of the sprint
+        -> Discuss work complete and move incomplete work to backlog
+        -> Close sprin
