@@ -1,0 +1,7 @@
+(a) Pros: 
+    1. More resilient to scope changes in the Project
+    2. Constant collaboration with customers
+
+    Cons:
+    1. Difficulty in predicting project timelines and costs
+    2. High demands on team communication and collaboration
