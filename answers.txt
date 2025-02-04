@@ -5,3 +5,11 @@
     Cons:
     1. Difficulty in predicting project timelines and costs
     2. High demands on team communication and collaboration
+
+
+(b) Scrum Master: All scrum related tasks – JIRA tooling, facilitating sprints
+    and meetings, standups all done by the Scrum Master
+
+    Product Owner: Sets direction for the team, handles release
+    management and stakeholder management. 
+
